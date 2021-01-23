@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  width: 500px;
+  margin: 20px auto;
+  color: #797777;
+  background-color: #f6f7fd;
+  font-family: 'helveltica' 'Arial' 'sans-serif';
+}
+
+
+h1 {
+  background-color: #c2e6ef;
+  color: #797777;
+  font-family: cursive;
+  width: 500px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #797777;
+  border-top: 1px solid #797777;
+  text-align: center;
+  padding: 20px 10px;
+}
+h2 {
+  text-align: center;
+  color: #797777;
+  border-bottom: 1px solid #797777;
+  margin-top: 30px;
+}
+.intro {
+  font-style: italic;
+}
