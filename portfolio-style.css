@@ -6,7 +6,6 @@ div {
   margin: 20px auto;
   color: #797777;
   background-color: #f6f7fd;
-  font-family: 'helveltica' 'Arial' 'sans-serif';
 }
 
 
@@ -20,6 +19,7 @@ h1 {
   border-top: 1px solid #797777;
   text-align: center;
   padding: 20px 10px;
+  font-family: jazz LET;
 }
 h2 {
   text-align: center;
@@ -29,4 +29,32 @@ h2 {
 }
 .intro {
   font-style: italic;
+}
+.menu {
+  background color: #c2e6ef;
+  color: #c2e6ef;
+  margin: 0;
+  padding: 20px 0px;
+  text-align: center;
+}
+.horizontal-display {
+  display: inline;
+  padding: 10px 20px;
+  border: 1px solid #797777;
+  background-color: #c2e6ef;
+}
+a {
+  color: #797777;
+}
+.button:link {
+  color: #797777;
+}
+.button:hover {
+  background-color: #3cafcc;
+  color: white;
+}
+.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #6dd6f1;
 }
